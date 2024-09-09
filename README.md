@@ -1,5 +1,5 @@
 # AdvMachineLearning
-This is my code notebook and bank churn CSV file for my Advanced Machine Learning course from UT Austin's Postgraduate Certification in AI/ML: Business Applications.  In this project, I built a classification model for a bank using ensemble methods that would enable to the bank to accurately predict credit card user churn.
+This is my code notebook and bank churn CSV file for my Advanced Machine Learning course from UT Austin's Postgraduate Certification in AI/ML: Business Applications.  In this project, I built a classification model for a bank, using ensemble methods, that would enable to the bank to accurately predict credit card user churn.
 
 In this project, the data was loaded into Python, where extensive exploratory data analysis was performed (using visualization modules from Seaborn), any missing values were imputed, and the data split into train, validation and test sets. After that, I proceeded to build the machine learning model using ensemble methods, using recall as the metric to optimize, as it is most important to the bank to identify any customers who are at risk of attrition.
 
